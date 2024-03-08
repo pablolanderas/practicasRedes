@@ -47,7 +47,7 @@ Guardar la configuracion con el comando ``wr``
 
 Colocamos los switchs y los PCs y fiamos las IPs
 
-**b)**
+**b)** <a id="3.2b">
 
 Entramos a la interfaz del router hacia el sitch desde el modo de configuracion, abrimos el puerto y fijamos el IP de Gateway:
 
@@ -61,7 +61,7 @@ Fijamos este Gateway a los PCs
 
 Hacemos los mismos pasos que en a) y b) pero para la nueva red
 
-**e)**
+**e)** <a id="3.2e">
 
 Conectamos ambos ruters y fijamos la IP como antes lo unico que en el otro puerto:
 
