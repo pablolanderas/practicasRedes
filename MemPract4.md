@@ -8,11 +8,11 @@
 
 **a)**
 
-Crear el switch con la IP y la mascara dada, como en [enlace](#TODO)
+Crear el switch con la IP y la mascara dada
 
 **b)**
 
-Crear y configurar el GateWay como en [enlace](#TODO)
+Crear y configurar el GateWay como en [practica 2 3.2 b)](MemPract2.md#3.2b)
 
 **c)**
 
@@ -20,7 +20,7 @@ Colocar el ISP y conectarlo al router
 
 **d)** <a id="3.1.d">
 
-Configurar el puerto de salida al ISP dandole una IP y creando la ruta estatica como en [enlace](#TODO)
+Configurar el puerto de salida al ISP dandole una IP y creando la ruta estatica como en la [practica 3 3.3 i)](MemPract3.md#3.3i)
 
 **e)** <a id="3.1.e">
 

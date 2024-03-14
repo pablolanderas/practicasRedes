@@ -54,7 +54,7 @@ Al hacer eso, las tablas no se actualizan, por lo que no se podria realizar el p
 
 ## 3.3 <a id="3.3">
 
-**i)**
+**i)** <a id="3.3i">
 
 Para hacer esto hay que crear una ruta estatica. Estas son las ultimas que se comrpueban, entonces lo que hay que hacer es una generica con mascara 0 y con destino a la IP del puerto del router de salida en caso de los dos routers de los laterales. Y en el router del centro, tiene que ir direccionado a uno de los de los lados. El siguiente es un ejemplo de como se haria:
 
