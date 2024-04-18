@@ -24,7 +24,7 @@ Las vlans se utilizan cuando hay varias redes dentro de un mismo red, y ambas cr
 3. Abrimos el puerto con ``interface <interfaz>`` y ``no shutdown``
 4. Por cada interfaz, entramos en su subinterfaz y creamos el encapsulation y su IP de Gateway:  
     4.1. ``interface <interfaz>.<subinterfaz>``  
-    4.2. ``encapsulation dotlq <numeroVlan>``  
+    4.2. ``encapsulation dot1q <numeroVlan>``  
     4.3. ``ip address <ipGateway> <mascara>``
 5. Guardar la configuracion ``wr``
 
